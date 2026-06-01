@@ -1,6 +1,6 @@
 ## tests of R/qtlcharts in Jupyter
 
-Simple examples of use of R/qtlcharts in a Jupyter notebook.
+Simple examples of use of R/qtlcharts in a [Jupyter](https://jupyter.org/) notebook.
 
 - [x] iboxplot
 - [ ] idotplot
