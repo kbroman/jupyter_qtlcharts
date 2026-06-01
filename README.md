@@ -2,23 +2,6 @@
 
 Simple examples of use of R/qtlcharts in a [Jupyter](https://jupyter.org/) notebook.
 
-- [x] iboxplot
-- [ ] idotplot
-- [x] iheatmap
-- [ ] ipleiotropy
-- [x] iplotCorr
-- [x] iplotCurves
-- [x] iplotMap
-- [ ] iplotMScanone
-- [ ] iplotPXG
-- [x] iplot
-- [ ] iplotRF
-- [ ] iplotScanone
-- [ ] iplotScantwo
-- [ ] itriplot
-- [x] scat2scat
-
-
 ---
 
 ### License
