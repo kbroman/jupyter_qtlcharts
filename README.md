@@ -10,6 +10,7 @@ It's a bit cumbersome, but it works:
 - save that to a file with `saveWidget()`
 
 - create a bit of html to load the file into an `<iframe>`
+  (the [glue package](https://glue.tidyverse.org) is helpful for this)
 
 - use `display_html()` from the [IRdisplay package](https://github.com/IRkernel/IRdisplay) to display it.
 
@@ -19,6 +20,7 @@ Here's an example:
 library(qtlcharts)
 library(IRdisplay)
 library(htmlwidgets)
+library(glue)
 
 data(grav)
 
